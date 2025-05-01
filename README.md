@@ -16,6 +16,8 @@ The dashboard can be accessed here: https://lookerstudio.google.com/reporting/31
 
 **Disclaimer: The information in this dashboard are intended for informative purposes only. Please do not use the provided information as advice for school applications.**
 
+![Screenshot 2025-05-01 at 1 01 14 AM](https://github.com/user-attachments/assets/3bbec0e2-98a8-4158-9bcf-6cb13be7917f)
+
 ## Methods
 The data files are downloaded from NYC Public Schools InfoHub (last downloaded in April 2025). The files are parsed using Python, and the data are re-organized in a specific format. The processed data are stored on Google's BigQuery platform. The dashboard is designed in Looker Studio that accesses the data from BigQuery.
 
